@@ -1,0 +1,17 @@
+.form {
+    text-align: center !important;
+    width: 75% !important;
+    margin: 0 auto !important;
+}
+
+.destinationInput {
+    width: 50% !important;
+    margin: 1rem auto !important;
+}
+
+.loadMore {
+    text-align: center !important;
+    /*color:red !important;*/
+    margin: 0 auto !important;
+    margin-bottom: 10px !important;
+}
